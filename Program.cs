@@ -1,7 +1,7 @@
 ﻿
 try
 {
-    Console.WriteLine("Acessando o arquivo poesia.txt em https://macorrati.net/dados\n");
+    Console.WriteLine("Acessando o arquivo poesia.txt em https://macoratti.net/dados\n");
     Console.WriteLine("Informe o nome do arquivo");
     string? arquivo = Console.ReadLine();
     Console.WriteLine("Informe a url do site");
